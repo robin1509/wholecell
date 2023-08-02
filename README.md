@@ -6,8 +6,8 @@ The purpose of this publication is to ....
 
 ## Publication interactive images
 
-Fig 1 (.pdf) [**Chemical Fingerprints**](/Docs/Chemical_Fingerprint.pdf)
-Fig 1 (.html) [**Chemical Fingerprints**](/Docs/Chemical_Fingerprint.html)
+Fig 1 (.pdf) [**Chemical Fingerprints**](/Docs/Chemical_Fingerprints.pdf)
+Fig 1 (.html) [**Chemical Fingerprints**](/Docs/Chemical_Fingerprints.html)
 
 Additional file [**Script**](/Docs/order_coverage_plot.html)
 

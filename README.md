@@ -6,11 +6,12 @@ The purpose of this publication is to ....
 
 ## Publication interactive images
 
-Fig 1 [**Taxonomical coverage of the 300 species collection**](/docs/taxo_plot.pdf)
+Fig 1 (.pdf) [**Chemical Fingerprints**](/Docs/Chemical_Fingerprint.pdf)
+Fig 1 (.html) [**Chemical Fingerprints**](/Docs/Chemical_Fingerprint.html)
 
-Additional file [**Taxonomical coverage of the Orders**](/docs/order_coverage_plot.html)
+Additional file [**Script**](/Docs/order_coverage_plot.html)
 
-Additional file [**Taxonomical coverage of the Families**](/docs/family_coverage_plot.html)
+Additional file [**MZmine3_batch_file**](/Docs/family_coverage_plot.html)
 
 
 

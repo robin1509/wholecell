@@ -1,5 +1,7 @@
 # Miniaturization of whole-cell biotransformation reactions for fast and efficient chemo-diversification of natural products
 
+This repository stores the interactive images and supplementary files of the publication "Miniaturization of whole-cell biotransformation reactions for fast and efficient chemo-diversification of natural products".
+
 ## Intro 
 
 The purpose of this publication is to present a miniaturized whole-cell biotransformation workflow that is performed in 96-well plates, allowing dozens of reactions to be carried out in parallel, as well as a simultaneous extraction step. This workflow is further complemented by an untargeted UHPLC-HRMS/MS metabolomics pipeline, allowing fast and comprehensive analysis of the generated mixtures. Due to the challenge of manually interpreting hundreds of chromatograms, data processing is proposed to generate “chemical fingerprints” that summarize the results in a visual and interactive way. 

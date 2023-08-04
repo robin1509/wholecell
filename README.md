@@ -6,13 +6,13 @@ The purpose of this publication is to present a miniaturized whole-cell biotrans
 
 ## Publication interactive images and files
 
-Fig 1 (.pdf) [**Chemical Fingerprints**](/Docs/Chemical_Fingerprints.pdf)
-Fig 1 (.html) [**Chemical Fingerprints**](/Docs/Chemical_Fingerprints.html)
+Fig 4.2.3 (.pdf): [**Chemical Fingerprints**](/Docs/Chemical_Fingerprints.pdf) <br>
+Fig 4.2.3 (.html): [**Chemical Fingerprints**](/Docs/Chemical_Fingerprints.html)
 
-Additional file [**Script**](/Docs/Chemical_Fingerprint_script.ipynb)
-Additional file [**MZmine3_batch_file**](/Docs/MZmine_Batch_File.xml)
-Additional file [**quant_table**](/Docs/RH110_MeOH_P1_P2_0723_quant.csv)
-Additional file [**metadata_table**](/Docs/RH110_P1_P2_MeOH_metadata_full.csv)
+Additional file: [**Script**](/Docs/Chemical_Fingerprint_script.ipynb) <br>
+Additional file: [**MZmine3_batch_file**](/Docs/MZmine_Batch_File.xml) <br>
+Additional file: [**quant_table**](/Docs/RH110_MeOH_P1_P2_0723_quant.csv) <br>
+Additional file: [**metadata_table**](/Docs/RH110_P1_P2_MeOH_metadata_full.csv)
 
 
 ## Contributors
